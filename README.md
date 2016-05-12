@@ -255,6 +255,8 @@ Projects that are not in English have a flag
 - AppLove: View app reviews for all territories (countries) 🔶
   - https://github.com/snowpunch/AppLove
   - https://itunes.apple.com/app/app-love/id1099336831
+- Auto Layout Magic:  Create 1 scene, and auto-generate constraints!
+  - http://akordadev.github.io/AutoLayoutMagic/
 - Bequest: Create and replay HTTP/S requests 🔶
   - https://github.com/splinesoft/Bequest
 - CI2Go: An unofficial CircleCI Client 🔶
